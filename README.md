@@ -1,4 +1,4 @@
-## motif-mark
+### motif-mark
 
 A program for plotting protein-binding motifs on an axon and flanking introns.
 
